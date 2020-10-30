@@ -13,4 +13,7 @@ Example Projects
 Name | Author | Demo
 --- | --- | ---
 [JetNews](https://github.com/android/compose-samples/blob/main/JetNews) | [Google](https://github.com/android) |  <img src="https://github.com/android/compose-samples/raw/main/JetNews/screenshots/jetnews_demo.gif" width="50%"> 
+[JetChat](https://github.com/android/compose-samples/blob/main/Jetchat) | [Google](https://github.com/android) |  <img src="https://github.com/android/compose-samples/raw/main/Jetchat/screenshots/jetchat.gif" width="50%"> 
+[JetSnack](https://github.com/android/compose-samples/blob/main/Jetsnack) | [Google](https://github.com/android) |  <img src="https://github.com/android/compose-samples/raw/main/Jetsnack/screenshots/jetsnack.gif" width="49%"> <img src="https://github.com/android/compose-samples/raw/main/Jetsnack/screenshots/snack_details.gif" width="49%">
+
 
